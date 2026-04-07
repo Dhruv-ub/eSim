@@ -65,7 +65,7 @@ function installNghdl
 {
 
     echo "Installing NGHDL..........................."
-    unzip -o nghdl.zip
+    # unzip -o nghdl.zip
     cd nghdl/
     chmod +x install-nghdl.sh
 
